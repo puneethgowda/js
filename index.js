@@ -6333,7 +6333,7 @@
             },
         },
         tag: "bad-featured",
-        url: "http://localhost:3000/widgets/featured-collections"
+        url: "https://bandit-ui-core.vercel.app/widgets/featured-collections"
 
     })
 
@@ -6356,7 +6356,7 @@
             },
         },
         tag: "bad-stats",
-        url: "http://localhost:3000/widgets/stats"
+        url: "https://bandit-ui-core.vercel.app/widgets/stats"
 
     })
 
@@ -6413,7 +6413,7 @@
             },
         },
         tag: "bad-collection",
-        url: "http://localhost:3000/widgets/collection",
+        url: "https://bandit-ui-core.vercel.app/widgets/collection",
 
     })
 
@@ -6430,7 +6430,7 @@
             },
         },
         tag: 'bad-mint',
-        url: 'http://localhost:3000/widgets/mint',
+        url: 'https://bandit-ui-core.vercel.app/widgets/mint',
 
         containerTemplate: ({ uid, tag, context, focus, close, doc }) => {
             function closeComponent(event) {
