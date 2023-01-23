@@ -6430,6 +6430,18 @@
                 scrolling: 'no',
             },
         },
+        props:{
+            collectionId: {
+                type: 'number',
+                queryParam: true,
+                required: true
+            },
+            accessKey: {
+                type: 'string',
+                queryParam: true,
+                required: true
+            },
+        },
         tag: 'bad-mint',
         url: 'https://bandit-ui-core.vercel.app/widgets/mint',
 
